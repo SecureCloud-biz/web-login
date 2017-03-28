@@ -27,7 +27,7 @@ Once we've got the info about your account and your app, we will provide you wit
 
 This is how it looks in a glance:
 
-![Diagram](https://raw.githubusercontent.com/truecaller/web-signin/master/documentation/images/diagram.png)
+![Diagram](https://raw.githubusercontent.com/truecaller/web-login/master/documentation/images/diagram.png)
 
 But let's get down to the details.
 
